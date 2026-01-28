@@ -3,14 +3,17 @@
 <!--
 **robloxverse/robloxverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+RoboloxVerse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+RoboloxVerse is a community-driven platform for Roblox players, focused on guides, tips, and gameplay insights.
+
+Content includes:
+
+- Roblox gameplay guides
+- Helpful tips for players
+- Community-based resources
+- Roblox-related updates
+
+Official website: https://roboloxverse.org/
+
+We aim to make Roblox content easy to understand and useful for players of all levels.
