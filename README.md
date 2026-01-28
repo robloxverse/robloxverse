@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**robloxverse/robloxverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-RoboloxVerse
+# RoboloxVerse
 
 RoboloxVerse is a community-driven platform for Roblox players, focused on guides, tips, and gameplay insights.
 
